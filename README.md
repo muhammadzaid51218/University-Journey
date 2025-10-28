@@ -6,7 +6,7 @@ Comprehensive repository containing lecture notes, assignments, projects, and st
 My complete collection of notes, assignments, and resources from BS Software Engineering.
 
 ## 📖 Contents
-- [Semester 3](./Semester-01)
+- [Semester 3](./Semester-03)
 
 ## 🎯 Purpose
 Documenting my learning journey and creating a resource for future students.
